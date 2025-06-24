@@ -3,13 +3,16 @@ These are the main projects that I worked on during my time at National Oceanic 
 
 
 I was part of the Web Team that was responsbile for tranforming these major Santuary sites to responsive, mobile friendly sites. Below are the links to the end product.
-- https://stellwagen.noaa.gov/visit/
-     - https://stellwagen.noaa.gov/visit/birdwatching/guide-to-santuary-birds.html 
-- https://channelislands.noaa.gov/visit/
-- https://thunderbay.noaa.gov/shipwrecks/
+
 
 This is the site I created for Get Into Your Sanctuary annual magazine.
 - [https://sanctuaries.noaa.gov/magazine/giys/](https://sanctuaries.noaa.gov/magazine/giys/boating-happens-here.html)
+
+
+- https://stellwagen.noaa.gov/visit/birdwatching/guide-to-santuary-birds.html 
+- https://channelislands.noaa.gov/visit/
+- https://thunderbay.noaa.gov/shipwrecks/
+
 
 This is an example of a monthly collection I designed and implemented:
 - https://sanctuaries.noaa.gov/education/teachers/ocean-sound/
